@@ -3,6 +3,8 @@
  * @productTable.js
  */
 
+'use strict';
+
 import React, {Component} from 'react';
 import ProductRow from './productRow';
 import ProductCategoryRow from './productCategoryRow';

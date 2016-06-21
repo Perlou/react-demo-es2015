@@ -3,6 +3,8 @@
  * @filterProductTable.js
  */
 
+'use strict';
+
 import React, {Component} from 'react';
 import SearchBar from './component/searchBar';
 import ProductTable from './component/productTable';

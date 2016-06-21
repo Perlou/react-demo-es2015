@@ -3,6 +3,8 @@
  * @searchBar.js
  */
 
+'use strict';
+
 import React, {Component} from 'react';
 
 export default class SearchBar extends Component {
